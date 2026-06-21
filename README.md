@@ -1,2 +1,14 @@
 # lite-zhibo8-pages
-HTML page archive and documentation
+
+自动发布文件目录
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
